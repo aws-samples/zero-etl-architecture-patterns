@@ -22,8 +22,8 @@ To manually create a virtualenv on MacOS and Linux:
 $ git clone --depth=1 https://github.com/aws-samples/zero-etl-architecture-patterns.git
 $ cd zero-etl-architecture-patterns
 $ git sparse-checkout init --cone
-$ git sparse-checkout set zero-etl-architecture-patterns/aurora-mysql-to-redshift
-$ cd zero-etl-architecture-patterns/aurora-mysql-to-redshift
+$ git sparse-checkout set aurora-mysql-to-redshift
+$ cd aurora-mysql-to-redshift
 
 $ python3 -m venv .venv
 ```
