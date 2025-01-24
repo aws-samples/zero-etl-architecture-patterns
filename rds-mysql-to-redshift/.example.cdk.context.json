@@ -1,0 +1,13 @@
+{
+  "vpc_name": "default",
+  "rds_instance_name": "zero-etl-source-rds",
+  "redshift": {
+    "db_name": "zero-etl-target-rs",
+    "namespace": "zero-etl-target-rs-ns",
+    "workgroup": "zero-etl-target-rs-wg"
+  },
+  "zero_etl_integration": {
+    "data_filter": "include: demodb.retail_trans",
+    "integration_name": "zero-etl-rss"
+  }
+}
