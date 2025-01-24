@@ -8,7 +8,7 @@ An Amazon RDS zero-ETL integration with Amazon Redshift enables near real-time a
 | Example | Architecture Diagram | Tags |
 |-------------------------------|-------------|------|
 | [Aurora MySQL Zero-ETL integrations with Amazon Redshift Serverless](./aurora-mysql-to-redshift) | ![](./aurora-mysql-to-redshift/aurora-mysql-zero-etl-integration-with-redsfhit-serverless.svg) | Amazon Aurora MySQL, Redshift Serverless |
-
+| [Aurora Postgresql Zero-ETL integrations with Amazon Redshift Serverless](./aurora-postgresql-to-redshift) | ![](./aurora-postgresql-to-redshift/aurora-postgresql-zero-etl-integration-with-redsfhit-serverless.svg) | Amazon Aurora Postgresql, Redshift Serverless |
 
 Enjoy!
 
